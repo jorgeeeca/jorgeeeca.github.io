@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "CVEC"
   left:
-    - text: "CHINA-Vnezuela"
+    - text: "CHINA-Venezuela"
       href: index.html
     - text: "Acerca de"
       href: about.html
