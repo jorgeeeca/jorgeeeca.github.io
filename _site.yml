@@ -1,11 +1,11 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "CVEC"
   left:
-    - text: "Home"
+    - text: "CHINA-Vnezuela"
       href: index.html
-    - text: "About"
+    - text: "Acerca de"
       href: about.html
 output:
   html_document:

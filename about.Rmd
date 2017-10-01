@@ -1,4 +1,9 @@
 ---
-title: "acerca de"
+title: "Acerca de"
 ---
+
+
+
 # Página CVEC
+Estamos innovando a través de tecnologías libre relacionadas con la expasión y masificación de información y conocimiento
+le damos una cordial bienvenida
